@@ -148,4 +148,4 @@ Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) par
 
 ---
 
-**Aprender a programar é aprender a se comportar de novas formas.
+**Aprender a programar é aprender a se comportar de novas formas pelo arranjo planejado de contingências.**
