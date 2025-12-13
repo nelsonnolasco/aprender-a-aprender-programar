@@ -64,7 +64,7 @@ A maioria dos materiais de programação utiliza metáforas mentalistas — "pen
 
 | Artigo | Descrição |
 | --- | --- |
-| Vetores, Strings e Funções *(em breve)* | Estruturas de dados e recursão sob análise funcional |
+| Estruturas de Dados e Funções *(em breve)* | Estruturas de dados e recursão sob análise funcional |
 
 ### Programação Orientada a Objetos
 
