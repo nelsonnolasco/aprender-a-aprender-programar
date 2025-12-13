@@ -5,7 +5,8 @@ seoDescription: "Entenda estruturas sequencial, seleção e repetição como pad
 datePublished: Sat Dec 13 2025 15:16:09 GMT+0000 (Coordinated Universal Time)
 cuid: cmj4furvr000002jidyck2r5y
 slug: estruturas-de-programacao-pela-otica-analitica-comportamental
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1765578512733/4b16e194-be4b-434d-9351-930feff02635.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1765640353928/59469592-97b3-42f5-b7ec-39ac6717ea4a.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1765640374106/04abe7aa-0853-4824-9f5d-dfcc6c7d5ee3.png
 tags: estruturadeprogramacao-analisedocomportamento-behaviorismo-programacaosequencial-ifelse-loops-ensinodeprogramacao-cienciadocomportamento-operantebehavior
 
 ---
