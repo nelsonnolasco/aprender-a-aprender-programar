@@ -57,7 +57,7 @@ A maioria dos materiais de programação utiliza metáforas mentalistas — "pen
 
 | Artigo | Descrição |
 | --- | --- |
-| sequência, seleção e repetição no código *(em breve)* | Estruturas fundamentais da programação - sequencial, de seleção e de repetição sob análise funcional |
+| Estruturas de Programação pela Ótica Analítica Comportamental *(em breve)* | Estruturas fundamentais da programação - sequencial, de seleção e de repetição sob análise funcional |
 
 
 ### Estruturas de Dados e Funções
