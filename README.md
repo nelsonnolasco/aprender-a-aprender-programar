@@ -53,17 +53,24 @@ A maioria dos materiais de programação utiliza metáforas mentalistas — "pen
 | --- | --- |
 | [Aprender a Pensar a Lógica de Programação](https://nelsonnolasco.hashnode.dev/aprender-a-pensar-a-logica-de-programacao) | Pensamento computacional sob a perspectiva comportamental |
 
-### Programação Orientada a Objetos
+### Estruturas de Programação
 
 | Artigo | Descrição |
 | --- | --- |
-| POO: Uma Análise Comportamental *(em breve)* | Classes, objetos, herança, polimorfismo e abstração |
+| sequência, seleção e repetição no código *(em breve)* | Estruturas fundamentais da programação - sequencial, de seleção e de repetição sob análise funcional |
+
 
 ### Estruturas de Dados e Funções
 
 | Artigo | Descrição |
 | --- | --- |
 | Vetores, Strings e Funções *(em breve)* | Estruturas de dados e recursão sob análise funcional |
+
+### Programação Orientada a Objetos
+
+| Artigo | Descrição |
+| --- | --- |
+| POO: Uma Análise Comportamental *(em breve)* | Classes, objetos, herança, polimorfismo e abstração |
 
 ---
 
