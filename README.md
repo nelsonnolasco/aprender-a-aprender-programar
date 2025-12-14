@@ -64,7 +64,7 @@ A maioria dos materiais de programação utiliza metáforas mentalistas — "pen
 
 | Artigo | Descrição |
 | --- | --- |
-| [Estruturas de Dados e Funções]([ *(em breve](https://nelsonnolasco.hashnode.dev/estruturas-de-dados-e-funcoes))* | Estruturas de dados e recursão sob análise funcional |
+| [Estruturas de Dados e Funções](https://nelsonnolasco.hashnode.dev/estruturas-de-dados-e-funcoes) | Estruturas de dados e recursão sob análise funcional |
 
 ### Programação Orientada a Objetos
 
