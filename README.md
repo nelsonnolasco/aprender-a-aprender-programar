@@ -70,7 +70,7 @@ A maioria dos materiais de programação utiliza metáforas mentalistas — "pen
 
 | Artigo | Descrição |
 | --- | --- |
-| POO: Uma Análise Comportamental *(em breve)* | Classes, objetos, herança, polimorfismo e abstração |
+| [POO: Uma Análise Comportamental](https://nelsonnolasco.hashnode.dev/programacao-orientada-a-objetos) | Classes, objetos, herança, polimorfismo e abstração |
 
 ---
 
