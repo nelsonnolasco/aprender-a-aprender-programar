@@ -5,6 +5,7 @@ seoDescription: "Análise comportamental da ansiedade em desenvolvedores: contin
 datePublished: Sat Dec 20 2025 15:10:53 GMT+0000 (Coordinated Universal Time)
 cuid: cmjefqyj4000002lbcy4850qe
 slug: ansiedade-em-desenvolvedores-de-software
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1766243590627/f7629990-efe8-4346-983b-88d63f4c79cd.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1766243025883/5a1dbddf-848f-4f77-aacd-e09f3683712c.png
 tags: behavioral-psychology-software-engineering-mental-health-developer-wellness-behavior-analysis
 
